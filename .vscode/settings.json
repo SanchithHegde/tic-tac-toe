@@ -1,0 +1,5 @@
+{
+  "java.checkstyle.configuration": "/google_checks.xml",
+  "editor.tabSize": 2,
+  "java.configuration.updateBuildConfiguration": "interactive",
+}

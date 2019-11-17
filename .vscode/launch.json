@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - App",
+      "request": "launch",
+      "mainClass": "me.sanchithhegde.tictactoe.App",
+      "projectName": "tic-tac-toe-mcts"
+    }
+  ]
+}
